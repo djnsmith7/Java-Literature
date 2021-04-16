@@ -1,2 +1,2 @@
-# Java-Literature
+# Java_Literature
 My personal Java literature collection
